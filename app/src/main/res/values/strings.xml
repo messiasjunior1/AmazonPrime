@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amazon Prime</string>
+    <string name="banner_serie">Banner serie</string>
+    <string name="title">The Boys</string>
+    <string name="prime">prime</string>
+    <string name="season">Season 2</string>
+    <string name="season_text">Season 1-2 included with prime</string>
+    <string name="watch">Episode 1 Watch now</string>]
+    <string name="watchlist">Watchlist</string>
+    <string name="complete">Complete</string>
+    <string name="share">Share</string>
+    <string name="desc">THE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good.</string>
+</resources>
